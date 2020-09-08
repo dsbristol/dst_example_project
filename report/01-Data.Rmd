@@ -94,6 +94,4 @@ write.table(conndata,
 
 ### Summary:
 
-We have now created our data for further processing, in a simple headed tabular format (which is space separated).
-
-This is my test edit.
+We have now created our data for further processing, in a simple headed tabular format (which is space separated). This can be easily read into either R or Python.
