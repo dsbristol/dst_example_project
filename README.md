@@ -59,7 +59,11 @@ With html output of the Rmd content included for convenience.
 
 ### Requirements:
 
-Requirements for the Rmd files are given within each script.
+Requirements for the Rmd files are given within each script, or can be installed in advance using:
+```{sh}
+Rscript requirementsR.R
+```
+in which the list of packages used is given.
 
 Requirements for the Python code is given in `requirements.txt`; to install, in a virtual environment run:
 
