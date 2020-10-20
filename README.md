@@ -13,6 +13,7 @@ pandoc -o RachelR_Reflection.pdf RachelR_Reflection.md
 pandoc -o PeterP_Reflection.pdf PeterP_Reflection.md 
 ```
 
+
 Markdown is an acceptable format, though PDF looks nicer.
 
 ### Comment on Report formats:
