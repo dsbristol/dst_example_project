@@ -1,6 +1,6 @@
 # Example Assessment for Data Science Toolbox
 
-This is an example project, laid out in the format that is required for [Data Science Toolbox](dsbristol.github.io/dst/) at the University of Bristol.
+This is an example project, laid out in the format that is required for [Data Science Toolbox](dsbristol.github.io/dst/) at the University of Bristol. This addresses the [Example Assessment](https://raw.githubusercontent.com/dsbristol/dst/d052f6ee95172760cb533811804c441e6e919854/assets/assessments/Example_Assessment.pdf).
 
 It is annotated with occasional thoughts, if some context is required.
 
