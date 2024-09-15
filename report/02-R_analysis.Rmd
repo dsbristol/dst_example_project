@@ -264,7 +264,6 @@ bipdata=bipdata[rowSums(bipdata[,-5])>0,]
 #bipdata[bipdata>0]=log(1+bipdata[bipdata>0])/10 # make it unweighted
 #bipdata[bipdata<10]=0 #log(1+bipdata[bipdata>0])/10 # make it unweighted
 bipdata[bipdata>0]=1
-bipdata=as.data.frame(bipdata)
 
 # weighted bipartite network
 bip = network(bipdata,
